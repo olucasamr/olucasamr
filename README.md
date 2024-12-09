@@ -106,9 +106,9 @@
 
 ### 📊Estátisticas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=olucasamr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20de%20Lucas" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasamr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2&custom_title=Tecnologias" height="175" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=olucasamr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADsticas%20de%20Lucas" height="178" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasamr&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt2&hide_border=false&order=2&custom_title=Tecnologias" height="178" alt="languages graph"  />
 </div>
 
 ###
