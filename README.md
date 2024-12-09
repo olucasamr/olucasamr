@@ -1,9 +1,10 @@
-# Hi i am Lucas Amaral! Welcome👾
 
+# 👾 Lucas Amaral
+**`Desenvolvedor Web`**
 
-<div align="center">
-  <img src="imagens/7he R4.gif" alt="calm" width="60%" height="45%">
+<img src="https://i.pinimg.com/originals/28/87/19/288719964b4c8a86321241cd48566c2e.gif" align="right" width="200"></img>
+
+<div align="left" font-size="24px">
+  á trabalhei como social media freelancer usando tecnologias como Figma, Photoshop e Canva. Neste momento, estou desbravando o universo da tecnologia da informação com     conhecimentos em programação e desenvolvimento web. Atualmente com estudos focados em Angular.
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ads-data/)
-<!--[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olucasamr)-->
