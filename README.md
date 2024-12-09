@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A4F08B&width=435&lines=Hello+everyone%2C+welcome+to+my+github)](https://git.io/typing-svg)
 
 <div align="left" font-size="24px" margin="20" width="200">
-  Sou estudante de Análise e Desenvolvimento de Sistemas, desbravando a tecnologia de forma autodidata. Minha jornada na área de desenvolvimento começou com a   curiosidade e hoje tenho conhecimentos sólidos em JavaScript (JS), CSS, HTML, Node.js, e TypeScript (TS).
+  Sou estudante de Análise e Desenvolvimento de Sistemas, desbravando a tecnologia de forma autodidata. Minha jornada na área de desenvolvimento começou com a   curiosidade e hoje tenho conhecimentos sólidos em tecnologias como JavaScript (JS), CSS, HTML, Node.js, TypeScript (TS), entre outras.
 
   Atualmente, estou focando meus estudos em Angular, me aprofundando para criar aplicações web robustas e eficientes.
 </div>
