@@ -9,7 +9,7 @@
 <div align="left" font-size="24px" margin="20" width="200">
   Sou estudante de Análise e Desenvolvimento de Sistemas, desbravando a tecnologia de forma autodidata. Minha jornada na área de desenvolvimento começou com a   curiosidade e hoje tenho conhecimentos sólidos em tecnologias como JavaScript (JS), CSS, HTML, Node.js, TypeScript (TS), entre outras.
 
-  Atualmente, estou focando meus estudos em Angular, me aprofundando para criar aplicações web robustas e eficientes.
+  Atualmente, estou focando meus estudos em Front end, me aprofundando para criar aplicações web robustas e eficientes.
 </div>
 
 <div>
@@ -91,14 +91,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img
+<!-- <img
     align="left" 
     alt="Angular" 
     title="Angular"
     width="30px" 
     style="padding-right: 10px;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"
-/>  
+/>  -->
 <br/>
 <br/>
 <br/>
