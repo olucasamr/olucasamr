@@ -91,7 +91,16 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<!-- <img
+<!--
+  <img
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"
+/>
+  <img
     align="left" 
     alt="Angular" 
     title="Angular"
