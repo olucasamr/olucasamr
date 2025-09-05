@@ -12,9 +12,10 @@
   Atualmente, estou focando meus estudos em desenvolvimento web, me aprofundando para criar aplicações web robustas e eficientes.
 </div>
 
-<div>
-    <a href="https://www.linkedin.com/in/olucasamr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-  badge&logo=linkedin&logoColor=white"></a> 
-</div>
+
+<a href="https://www.linkedin.com/in/olucasamr/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ## 
 
